@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Latypova": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Resources/Other Files/WasteOnField.txt\""
+    }
+  }
+}
